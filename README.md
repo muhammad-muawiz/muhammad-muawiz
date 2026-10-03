@@ -33,4 +33,6 @@ An academic project concept for managing plant information and growing requireme
 
 * GitHub: [My GitHub Profile](https://github.com/muhammad-muawiz)
 * Email: m.muawiznaeem@gmail.com
+# Next Goal
+*Data Scientist*
 
